@@ -10,8 +10,7 @@ namespace SimpleCNN
 	{
 		public static Random Random = new Random();
 	}
-	//взял всю эту фигню с SimpleNN (Onigiri) и переписал на C#, потому что было лень самому делать
-	//вообще в идеале было назвать SimpleCNN, но уже насрать
+	//взял всю это с SimpleNN (Onigiri) и переписал на C#, потому что было лень самому делать
 	class NeuralLayer
 	{
 		public readonly int Size;
